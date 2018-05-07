@@ -1,0 +1,37 @@
+.Naira 
+{
+	background-color:white;
+	}
+	
+.top 
+{
+	background-color:lightgrey;
+	height:150px;
+	width:100%;
+	border-radius:5px;
+	text-align:center
+}
+.box 
+{
+	width:600px;
+	background-color:white;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-70%;l
+	border-radius:5px;
+}
+.text 
+{
+	text-align:center;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-bottom:1px solid green;
+}
+.middle
+{
+	background-color:lightgrey;
+	height:1200px;
+	width:100%;
+	border-radius:5px;
+	text-align:center
+}
